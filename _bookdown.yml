@@ -1,7 +1,7 @@
 book_filename: "bookclub-hopr"
 repo: https://github.com/n8thangreen/bookclub-hopr
 edit: "https://github.com/n8thangreen/bookclub-hopr/edit/main/%s"
-output_dir: "_book"
+output_dir: "docs"
 delete_merged_file: true
 language:
   ui:

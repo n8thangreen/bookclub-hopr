@@ -1,10 +1,9 @@
-Package: bookclub-{{{book_abbr}}}
-Title: {{{book_name}}} Book Club
+Package: bookclub-hopr
+Title: Hands-on Programming with R Book Club
 Version: 0.0.1
 Authors@R: 
-    person("Data Science Learning Community", , , "rfordatasci@gmail.com", role = c("aut", "cre", "cph"))
-URL: https://r4ds.github.io/bookclub-{{{book_abbr}}},
-    https://github.com/r4ds/bookclub-{{{book_abbr}}}
+    person("Nathan Green", , , "n.green@ucl.ac.uk", role = c("aut", "cre", "cph"))
+URL: https://github.com/n8thangreen/bookclub-hopr
 Depends:
     R (>= 3.1.0)
 Imports: 

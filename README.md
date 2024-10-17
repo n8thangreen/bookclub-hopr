@@ -1,19 +1,13 @@
-# DSLC {{{book_name}}} Book Club
+# Hands-On Programming with R Book Club
 
-Welcome to the DSLC {{{book_name}}} Book Club!
+Welcome to the Hands-On Programming with R Book Club!
 
-We are working together to read [_{{{book_name}}}_]({{{book_url}}}) by {{{book_authors}}} (copyright {{{book_copyright}}}).
-{{#print}}If you would like a print version, please consider purchasing it using our [Amazon Affiliates link]({{{print_url}}}). All profits from purchases through that link go toward maintaining the Data Science Learning Community.{{/print}}
-Join the [#book_club-{{{book_abbr}}}](https://dslcio.slack.com/archives/{{{book_channel_id}}}) channel on the [DSLC Slack](https://dslc.io/join) to participate.
+We are working together to read [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) by Garrett Grolemund.
+If you would like a print version, please consider purchasing it using our [Amazon Affiliates link]({{{print_url}}}).
 As we read, we are producing [notes about the book](https://dslc.io/{{{book_abbr}}}).
 
 ## Meeting Schedule
 
-If you would like to present, please see the sign-up sheet for your cohort (linked below, and pinned in the [#book_club-{{{book_abbr}}}](https://dslcio.slack.com/archives/{{{book_channel_id}}}) channel on Slack)!
-
-- [Cohort 1]({{{cohort01_signup_url}}}) (started {{{cohort01_start_date}}}, facilitated by {{{cohort01_facilitator_handle}}}): [{{{cohort01_day}}}, {{{cohort01_time_cst}}} CST/CDT]({{{cohort01_timeanddate_url}}}) | [meeting videos]({{{cohort01_youtube}}})
-
-<hr>
 
 
 ## How to Present

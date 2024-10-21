@@ -8,7 +8,7 @@ As we read, we are producing [notes about the book](https://dslc.io/{{{book_abbr
 
 ## Meeting Schedule
 
-
+- Mondays at 3:30pm - 4:15pm BST
 
 ## How to Present
 

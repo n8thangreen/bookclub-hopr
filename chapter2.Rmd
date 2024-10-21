@@ -2,12 +2,28 @@
 
 **Learning objectives:**
 
-- THESE ARE NICE TO HAVE BUT NOT ABSOLUTELY NECESSARY
+- The R User Interface
+- Objects
+- Functions
+- Writing Your Own Functions
+- Arguments
+- Scripts
 
-## SLIDE 1 {-}
 
-- ADD SLIDES AS SECTIONS (`##`).
-- TRY TO KEEP THEM RELATIVELY SLIDE-LIKE; THESE ARE NOTES, NOT THE BOOK ITSELF.
+## The R User Interface {-}
+
+- 
+
+## Objects {-}
+
+## Functions {-}
+
+## Writing Your Own Functions {-}
+
+## Arguments {-}
+
+## Scripts {-}
+
 
 ## Meeting Videos {-}
 

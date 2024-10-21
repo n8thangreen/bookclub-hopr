@@ -1,0 +1,26 @@
+# Packages and help pages
+
+**Learning objectives:**
+
+- 
+
+
+## Packages {-}
+
+## Getting help {-}
+
+
+
+## Meeting Videos {-}
+
+### Cohort 1 {-}
+
+`r knitr::include_url("https://www.youtube.com/embed/URL")`
+
+<details>
+<summary> Meeting chat log </summary>
+
+```
+LOG
+```
+</details>

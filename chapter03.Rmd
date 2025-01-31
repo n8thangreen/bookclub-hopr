@@ -5,9 +5,9 @@
 - 
 
 
-## Packages {-}
+## Slides {-}
 
-## Getting help {-}
+<iframe src="static/HOPR_1Nov_AChitkara.pdf" width="100%" height="600px"></iframe>
 
 
 

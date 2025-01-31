@@ -10,20 +10,9 @@
 - Scripts
 
 
-## The R User Interface {-}
+## Slides {-}
 
-- 
-
-
-## Objects {-}
-
-## Functions {-}
-
-## Writing Your Own Functions {-}
-
-## Arguments {-}
-
-## Scripts {-}
+<iframe src="static/HOPR_28Oct_MWhitfield.pdf" width="100%" height="600px"></iframe>
 
 
 ## Meeting Videos {-}

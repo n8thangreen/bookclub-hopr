@@ -4,10 +4,9 @@
 
 - 
 
-## ? {-}
+## Slides {-}
 
-- 
-
+<iframe src="static/HOPR_25Nov24_KLai.pdf" width="100%" height="600px"></iframe>
 
 
 ## Meeting Videos {-}
